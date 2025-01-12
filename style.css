@@ -206,5 +206,20 @@ header {
  }
  .btn {
     width: 100%;
-    height: 60%;
+    height: 40px;
+    background: #162938;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 0.7cm;
+    color: white ;
+    font-weight: 500;
+ }
+
+ .login-register {
+    font-size: 1rem;
+    color: #162938;
+    text-align: center;
+    font-weight: 500;
  }
